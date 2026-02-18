@@ -1,6 +1,6 @@
 ### Welcome
 
-Hi, I'm Dave, an AI engineer with over a decade of experience in artificial intelligence. At [Datalumina](www.datalumina.com), I lead the AI projects, where we're always pushing the boundaries of what's possible while still building reliable applications.
+Hi, I'm Dave, an AI engineer with over a decade of experience in artificial intelligence. At [Datalumina](https://datalumina.com), I lead the AI projects, where we're always pushing the boundaries of what's possible while still building reliable applications.
 
 I'm not going to impress you with theory, but teach you (without hype) how to build real AI systems, using [lasting engineering principles](https://www.youtube.com/@daveebbelaar?sub_confirmation=1).
 
